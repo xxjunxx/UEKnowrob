@@ -1,0 +1,10 @@
+[submodule "Plugins/UProtobuf"]
+	path = Plugins/UProtobuf
+	url = https://github.com/robcog-iai/UProtobuf.git
+[submodule "Plugins/USemLog"]
+	path = Plugins/USemLog
+	url = https://github.com/xxjunxx/USemLog.git
+	branch = core
+[submodule "Plugins/UMongoC"]
+	path = Plugins/UMongoC
+	url = https://github.com/robcog-iai/UMongoC.git
