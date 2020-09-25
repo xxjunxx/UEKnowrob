@@ -7,4 +7,4 @@
 	branch = core
 [submodule "Plugins/UMongoC"]
 	path = Plugins/UMongoC
-	url = https://github.com/robcog-iai/UMongoC.git
+	url = https://github.com/xxjunxx/UMongoC.git
